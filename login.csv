@@ -1,0 +1,4 @@
+username,password,name,role
+JohnDoe,pass1,John Doe,teacher
+teacher2,pass2,Jane Smith,teacher
+admin1,adminpass1,Admin User,admin
